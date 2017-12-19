@@ -1,0 +1,22 @@
+{
+  "name": "testcafe_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neelay/testcafe_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neelay/testcafe_test/issues"
+  },
+  "homepage": "https://github.com/neelay/testcafe_test#readme",
+  "devDependencies": {
+    "testcafe": "^0.18.5"
+  }
+}
